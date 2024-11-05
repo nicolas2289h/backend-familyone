@@ -1,0 +1,8 @@
+cl\chile\somosafac\service\FamiliaServiceTest.class
+cl\chile\somosafac\service\MentoriaServiceTest.class
+cl\chile\somosafac\service\UsuarioServiceTest.class
+cl\chile\somosafac\SomosafacApplicationTests.class
+cl\chile\somosafac\service\NotificacionServiceTest.class
+cl\chile\somosafac\service\ContactoServiceTest.class
+cl\chile\somosafac\service\NotaServiceTest.class
+cl\chile\somosafac\service\VoluntarioServiceTest.class
